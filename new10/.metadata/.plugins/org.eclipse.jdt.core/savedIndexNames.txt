@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\rays soft\workspace\new10\.metadata\.plugins\org.eclipse.jdt.core
